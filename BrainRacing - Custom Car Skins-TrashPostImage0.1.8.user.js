@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         BrainRacing - Custom Car Skins
-// @namespace    brainslug.torn.racing
-// @version      0.1.2
+// @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
+// @version      0.1.9
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
-// @author       Brainslug [2323221]
+// @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
 // @match        https://www.torn.com/loader.php?sid=racing*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
-// @updateURL    https://github.com/br41nslug/torn-brainscripts/raw/main/scripts/racing-car-skins.user.js
+// @updateURL    https://github.com/Griffon1978/Trashy-Car-Skins/raw/main/BrainRacing%20-%20Custom%20Car%20Skins-TrashPostImage0.1.8.user.js
 // @grant        none
 // ==/UserScript==
 
