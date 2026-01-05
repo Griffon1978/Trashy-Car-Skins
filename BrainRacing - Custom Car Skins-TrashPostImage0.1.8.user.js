@@ -11,7 +11,8 @@
 // @grant        none
 // ==/UserScript==
 
-// only class A cars for now (and the Cosworth ofc) 
+// All A/E Class cars.
+// B/C/D Class cars are a work in progress.
 const cars = {
     "Limoen Saxon": "https://i.postimg.cc/HsJZFgpV/Limoen_Saxon_Citroen_Saxo.png",
     "Nano Pioneer": "https://i.postimg.cc/xjN67844/Nano_Pioneer_Mini_Cooper.png",
