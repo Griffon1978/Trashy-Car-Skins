@@ -41,7 +41,8 @@ const cars = {
     "Zaibatsu Macro": "https://i.postimg.cc/xTKp3Sn4/Zaibatsu_Macro_Nissan_Micra.png",
     "Chevalier CVR": "https://i.postimg.cc/1XSw922G/Chevalier_CVR_Chevy_Cavalier.png",
     "Edomondo ACD": "https://i.postimg.cc/85099dYQ/Edmondo_ACD_Honda_Accord.png",
-    "Alpha Milano 156": "https://i.postimg.cc/YC0nKLQs/Apha_Milano156_Alfa_Romeo156.png"
+    "Alpha Milano 156": "https://i.postimg.cc/YC0nKLQs/Apha_Milano156_Alfa_Romeo156.png",
+    "Verpestung Insecta": "https://i.postimg.cc/9FyVwM0F/Verpestung_Insecta_VWBeetle.png"
 }
 
 const matchCar = (name) => $([
