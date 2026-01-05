@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BrainRacing - Custom Car Skins
+// @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
 // @version      0.1.9
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
