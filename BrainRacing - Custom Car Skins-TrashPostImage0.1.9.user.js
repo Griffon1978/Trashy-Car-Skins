@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
-// @version      0.1.12
+// @version      0.1.13
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
 // @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
@@ -44,12 +44,13 @@ const cars = {
     "Edomondo ACD": "https://i.postimg.cc/85099dYQ/Edmondo_ACD_Honda_Accord.png",
     "Alpha Milano 156": "https://i.postimg.cc/YC0nKLQs/Apha_Milano156_Alfa_Romeo156.png",
     "Verpestung Insecta": "https://i.postimg.cc/YqGb4RRj/Verpestung_Insecta_VWBeetle_Herbie.png",
-    "Bavaria Z8": "https://i.postimg.cc/C1DnQ8SD/Bavaria_Z8_BMWZ8.png",
+    "Bavaria Z8": "https://i.postimg.cc/CLtwybwM/Bavaria-Z8-BMWZ8.png",
     "Bavaria M5": "https://i.postimg.cc/V6vqb9M4/Bavaria-M5-BMWM5.png",
     "Coche Basurero": "https://i.postimg.cc/hvPtGMdq/Coche-Basurero-Seat-Leon-Cupra.png",
     "Invader H3": "https://i.postimg.cc/BnypcVSy/Invader-H3-Hummer-H3.png",
     "Verpestung Sport": "https://i.postimg.cc/kG3XQ9Zh/Verpestung-Sport-VWGolf-GTI.png",
-    "Bedford Nova": "https://i.postimg.cc/fyL5vndh/Bedford-Nova-Vauxhall-Astra-GSI.png"
+    "Bedford Nova": "https://i.postimg.cc/fyL5vndh/Bedford-Nova-Vauxhall-Astra-GSI.png",
+    "Echo Quadrato": "https://i.postimg.cc/5N9mcFnP/Echo-Quadrato-Audi-TTQuattro.png"
 }
 
 const matchCar = (name) => $([
