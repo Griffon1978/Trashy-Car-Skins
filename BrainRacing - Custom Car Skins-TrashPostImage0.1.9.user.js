@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
-// @version      0.1.13
+// @version      0.1.14
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
 // @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
@@ -45,12 +45,19 @@ const cars = {
     "Alpha Milano 156": "https://i.postimg.cc/YC0nKLQs/Apha_Milano156_Alfa_Romeo156.png",
     "Verpestung Insecta": "https://i.postimg.cc/YqGb4RRj/Verpestung_Insecta_VWBeetle_Herbie.png",
     "Bavaria Z8": "https://i.postimg.cc/CLtwybwM/Bavaria-Z8-BMWZ8.png",
-    "Bavaria M5": "https://i.postimg.cc/V6vqb9M4/Bavaria-M5-BMWM5.png",
+    "Bavaria X5": "https://i.postimg.cc/V6vqb9M4/Bavaria-M5-BMWM5.png",
     "Coche Basurero": "https://i.postimg.cc/hvPtGMdq/Coche-Basurero-Seat-Leon-Cupra.png",
     "Invader H3": "https://i.postimg.cc/BnypcVSy/Invader-H3-Hummer-H3.png",
     "Verpestung Sport": "https://i.postimg.cc/kG3XQ9Zh/Verpestung-Sport-VWGolf-GTI.png",
     "Bedford Nova": "https://i.postimg.cc/fyL5vndh/Bedford-Nova-Vauxhall-Astra-GSI.png",
-    "Echo Quadrato": "https://i.postimg.cc/5N9mcFnP/Echo-Quadrato-Audi-TTQuattro.png"
+    "Echo Quadrato": "https://i.postimg.cc/5N9mcFnP/Echo-Quadrato-Audi-TTQuattro.png",
+    "Echo S3": "https://i.postimg.cc/rmvBm2wQ/Echo-S3-Audi-S3.png",
+    "Edomondo IR": "https://i.postimg.cc/J7sJCVXj/Edomondo-IR-Honda-Integra-R.png",
+    "Edomondo S2": "https://i.postimg.cc/brpKbH1Z/Edomondo-S2-Honda-S2.png",
+    "Knight Firebrand": "https://i.postimg.cc/NFZmSbbK/Knight-Firebrand-Pontiac-Firebird.png",
+    "Nano Cavalier": "https://i.postimg.cc/P5JNY1MY/Nano-Cavalier-Mini-Cooper-S.png",
+    "Oceania SS": "https://i.postimg.cc/XN2bFmDN/Oceania-SS-Holden-SS.png",
+    "Volt RS": "https://i.postimg.cc/v8xJgT9V/Volt-RS-Ford-Focus-RS.png"
 }
 
 const matchCar = (name) => $([
