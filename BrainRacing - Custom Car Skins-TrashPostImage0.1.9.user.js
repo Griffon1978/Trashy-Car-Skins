@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
-// @version      0.1.9
+// @version      0.1.10
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
 // @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
@@ -43,7 +43,8 @@ const cars = {
     "Chevalier CVR": "https://i.postimg.cc/1XSw922G/Chevalier_CVR_Chevy_Cavalier.png",
     "Edomondo ACD": "https://i.postimg.cc/85099dYQ/Edmondo_ACD_Honda_Accord.png",
     "Alpha Milano 156": "https://i.postimg.cc/YC0nKLQs/Apha_Milano156_Alfa_Romeo156.png",
-    "Verpestung Insecta": "https://i.postimg.cc/9FyVwM0F/Verpestung_Insecta_VWBeetle.png"
+    "Verpestung Insecta": "https://i.postimg.cc/9FyVwM0F/Verpestung_Insecta_VWBeetle.png",
+    "Bavaria Z8": "https://i.postimg.cc/C1DnQ8SD/Bavaria_Z8_BMWZ8.png"
 }
 
 const matchCar = (name) => $([
