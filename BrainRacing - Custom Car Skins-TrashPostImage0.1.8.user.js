@@ -7,7 +7,8 @@
 // @match        https://www.torn.com/page.php?sid=racing*
 // @match        https://www.torn.com/loader.php?sid=racing*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=torn.com
-// @updateURL    https://github.com/Griffon1978/Trashy-Car-Skins/raw/main/BrainRacing%20-%20Custom%20Car%20Skins-TrashPostImage0.1.8.user.js
+// @updateURL    https://github.com/Griffon1978/Trashy-Car-Skins/raw/main/BrainRacing%20-%20Custom%20Car%20Skins-TrashPostImage0.1.9.user.js
+// @downloadURL  https://github.com/Griffon1978/Trashy-Car-Skins/raw/main/BrainRacing%20-%20Custom%20Car%20Skins-TrashPostImage0.1.9.user.js
 // @grant        none
 // ==/UserScript==
 
