@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
-// @version      0.1.15
+// @version      0.1.16
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
 // @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
@@ -62,7 +62,8 @@ const cars = {
     "Bavaria M5": "https://i.postimg.cc/MZnVmgbr/Bavaria-M5-BMWM5b.png",
     "Dart Rampager": "https://i.postimg.cc/Yqk2CW9J/Dart-Rampager-Dodge-Charger.png",
     "Yotsuhada EVX": "https://i.postimg.cc/Kcfwtkfs/Yotsuhada-EVX-Misubishi-Evo-X.png",
-    "Wington GGU": "https://i.postimg.cc/zD2pJnpp/Wington-GGU-TVRSagaris.png"
+    "Wington GGU": "https://i.postimg.cc/zD2pJnpp/Wington-GGU-TVRSagaris.png",
+    "Sturmfahrt 111": "https://i.postimg.cc/VvXjBCQC/Sturmfahrt111-Porsche911.png"
 }
 
 const matchCar = (name) => $([
