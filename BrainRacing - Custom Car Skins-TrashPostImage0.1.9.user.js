@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
-// @version      0.1.14
+// @version      0.1.15
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
 // @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
@@ -12,8 +12,6 @@
 // @grant        none
 // ==/UserScript==
 
-// All A/E/D Class cars.
-// B/C Class cars are a work in progress.
 const cars = {
     "Limoen Saxon": "https://i.postimg.cc/HsJZFgpV/Limoen_Saxon_Citroen_Saxo.png",
     "Nano Pioneer": "https://i.postimg.cc/xjN67844/Nano_Pioneer_Mini_Cooper.png",
@@ -57,7 +55,14 @@ const cars = {
     "Knight Firebrand": "https://i.postimg.cc/NFZmSbbK/Knight-Firebrand-Pontiac-Firebird.png",
     "Nano Cavalier": "https://i.postimg.cc/P5JNY1MY/Nano-Cavalier-Mini-Cooper-S.png",
     "Oceania SS": "https://i.postimg.cc/XN2bFmDN/Oceania-SS-Holden-SS.png",
-    "Volt RS": "https://i.postimg.cc/v8xJgT9V/Volt-RS-Ford-Focus-RS.png"
+    "Volt RS": "https://i.postimg.cc/v8xJgT9V/Volt-RS-Ford-Focus-RS.png",
+    "Cosmos EX": "https://i.postimg.cc/HLzfYrrn/Cosmos-EX-Lotus-Exige.png",
+    "Echo S4": "https://i.postimg.cc/gkMs23Dt/Echo-S4-Audi-S4.png",
+    "Tsubasa Impressor": "https://i.postimg.cc/MZ9V7qQT/Tsubasa-Impressor-Subaru-Impreza-STI.png",
+    "Bavaria M5": "https://i.postimg.cc/MZnVmgbr/Bavaria-M5-BMWM5b.png",
+    "Dart Rampager": "https://i.postimg.cc/Yqk2CW9J/Dart-Rampager-Dodge-Charger.png",
+    "Yotsuhada EVX": "https://i.postimg.cc/Kcfwtkfs/Yotsuhada-EVX-Misubishi-Evo-X.png",
+    "Wington GGU": "https://i.postimg.cc/zD2pJnpp/Wington-GGU-TVRSagaris.png"
 }
 
 const matchCar = (name) => $([
