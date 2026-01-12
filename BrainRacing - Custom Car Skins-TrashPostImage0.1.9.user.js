@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Trashy Car Skins
 // @namespace    https://github.com/Griffon1978/Trashy-Car-Skins
-// @version      0.1.16
+// @version      0.1.17
 // @description  Allows you to set custom car skins as decoration, sets the old skins by default
 // @author       Brainslug [2323221] original Trashonymous [3259948] updated
 // @match        https://www.torn.com/page.php?sid=racing*
@@ -24,7 +24,7 @@ const cars = {
     "Veloria LFA": "https://i.postimg.cc/vBnmBxXJ/Veloria_LFA_Lexus_LFA.png",
     "Mercia SLR": "https://i.postimg.cc/43k0Jfbd/Mercia_SLR_Mercedes_SLR.png",
     "Zaibatsu GT-R": "https://i.postimg.cc/5tdrx4qt/Zaibatsu_GTR_Nissan_GTR.png",
-    "Edomondo NSX": "https://i.postimg.cc/JnXhnHK6/Edmondo_NSX_Honda_NSX.png",
+    "Edomondo NSX": "https://i.postimg.cc/fWSDCtgd/Edomondo-NSX-Honda-NSXv2-0Aclass.png",
     "Volt GT": "https://i.postimg.cc/bNkFTyVK/Volt_GT40.png",
     "Edomondo Localé": "https://i.postimg.cc/vmT1KFDd/Edmondo_Locale_Honda_Civic.png",
     "Volt MNG": "https://i.postimg.cc/25yqtR3Y/Volt_GT_Ford_Mustang.png",
